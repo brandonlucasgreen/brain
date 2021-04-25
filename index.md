@@ -25,7 +25,7 @@ This site is a Zettelkasten, a way for me to think and develop ideas out in the 
 - ⚒️ **[[Tools stack]]**
 - 🎼 **[[Finished works]]**
 
-[[z:zettels?tag=posts/**]]
+[[z:zettels?tag=root/posts]]
 
 [1]:	https://aliciagreen.co
 [2]:	https://www.instagram.com/p/CDeAU24JQgU/?igshid=1fvajh00evbb9
